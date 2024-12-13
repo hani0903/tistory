@@ -63,7 +63,7 @@ const parser = new Parser({
         posts.forEach((post) => {
             text += `<li><a href='${post.link}' target='_blank'>${post.title}</a></li>`;
         });
-        text += `</ul>\n`;
+        text += `</ul>\n\n`;
     }
 
     // README.md 파일 생성
