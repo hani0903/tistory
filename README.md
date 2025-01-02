@@ -22,8 +22,11 @@
 
 ## 📕 Latest Blog Posts
 
+### Uncategorized
+<ul><li><a href='https://mori-appa-coding.tistory.com/78' target='_blank'>[오픽] 02. 목표 등급에 따라 전략 짜기</a></li><li><a href='https://mori-appa-coding.tistory.com/77' target='_blank'>[오픽] 01. 주제 선택하기</a></li></ul>
+
 ### 기초 학습/CSS
-<ul><li><a href='https://mori-appa-coding.tistory.com/76' target='_blank'>[CSS] transform</a></li><li><a href='https://mori-appa-coding.tistory.com/74' target='_blank'>[CSS] position 속성 값 정리 (static, relative, absolute, fixed)</a></li><li><a href='https://mori-appa-coding.tistory.com/73' target='_blank'>[CSS] 투명도 조절하는 법( 불투명도, 알파 채널 )</a></li><li><a href='https://mori-appa-coding.tistory.com/72' target='_blank'>[CSS] CSS의 단위 (Relative, Absolute)</a></li><li><a href='https://mori-appa-coding.tistory.com/70' target='_blank'>[CSS] Display 속성 (inline / block/ inline-block)</a></li><li><a href='https://mori-appa-coding.tistory.com/69' target='_blank'>[CSS] 박스 모델의 개념</a></li><li><a href='https://mori-appa-coding.tistory.com/68' target='_blank'>[CSS] CSS 테두리(border)와 크기(width/height)</a></li><li><a href='https://mori-appa-coding.tistory.com/66' target='_blank'>[CSS] CSS의 우선순위</a></li><li><a href='https://mori-appa-coding.tistory.com/64' target='_blank'>[CSS] 가상 클래스 선택자</a></li></ul>
+<ul><li><a href='https://mori-appa-coding.tistory.com/76' target='_blank'>[CSS] transform</a></li><li><a href='https://mori-appa-coding.tistory.com/74' target='_blank'>[CSS] position 속성 값 정리 (static, relative, absolute, fixed)</a></li><li><a href='https://mori-appa-coding.tistory.com/73' target='_blank'>[CSS] 투명도 조절하는 법( 불투명도, 알파 채널 )</a></li><li><a href='https://mori-appa-coding.tistory.com/72' target='_blank'>[CSS] CSS의 단위 (Relative, Absolute)</a></li><li><a href='https://mori-appa-coding.tistory.com/70' target='_blank'>[CSS] Display 속성 (inline / block/ inline-block)</a></li><li><a href='https://mori-appa-coding.tistory.com/69' target='_blank'>[CSS] 박스 모델의 개념</a></li><li><a href='https://mori-appa-coding.tistory.com/68' target='_blank'>[CSS] CSS 테두리(border)와 크기(width/height)</a></li></ul>
 
 ### 전역 상태 관리
 <ul><li><a href='https://mori-appa-coding.tistory.com/75' target='_blank'>[Redux] Redux의 정의 및 기본 개념</a></li></ul>
