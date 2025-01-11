@@ -20,7 +20,6 @@
 
 </p>
 
-
 ## 📕 Latest Blog Posts
 
 ### Uncategorized
