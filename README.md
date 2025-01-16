@@ -23,14 +23,11 @@
 ## 📕 Latest Blog Posts
 
 ### 기초 학습/CSS
-<ul><li><a href='https://mori-appa-coding.tistory.com/87' target='_blank'>[CSS] 내가 보려고 만든 - Flexbox 총정리</a></li><li><a href='https://mori-appa-coding.tistory.com/86' target='_blank'>[CSS] background- 배경</a></li><li><a href='https://mori-appa-coding.tistory.com/76' target='_blank'>[CSS] transform</a></li></ul>
+<ul><li><a href='https://mori-appa-coding.tistory.com/88' target='_blank'>[CSS] Flexbox 속성 정리</a></li><li><a href='https://mori-appa-coding.tistory.com/87' target='_blank'>[CSS] 내가 보려고 만든 - Flexbox 총정리</a></li><li><a href='https://mori-appa-coding.tistory.com/86' target='_blank'>[CSS] background- 배경</a></li><li><a href='https://mori-appa-coding.tistory.com/76' target='_blank'>[CSS] transform</a></li></ul>
 
 ### 한 입 리액트 챌린지 [3기]
 <ul><li><a href='https://mori-appa-coding.tistory.com/85' target='_blank'>[Day 2] 1.6 ~ 1.9강 수강</a></li><li><a href='https://mori-appa-coding.tistory.com/84' target='_blank'>[Day1] 1.1) ~ 1.5) 강 수강</a></li></ul>
 
 ### Uncategorized
 <ul><li><a href='https://mori-appa-coding.tistory.com/82' target='_blank'>[오픽] 공원 - 스크립트 (3,6,7,8)</a></li><li><a href='https://mori-appa-coding.tistory.com/79' target='_blank'>[오픽] 시험장 요령 확인하기 (강서 CBT 매우 강추)</a></li><li><a href='https://mori-appa-coding.tistory.com/78' target='_blank'>[오픽] 02. 목표 등급에 따라 전략 짜기</a></li><li><a href='https://mori-appa-coding.tistory.com/77' target='_blank'>[오픽] 01. 주제 선택하기</a></li></ul>
-
-### 전역 상태 관리
-<ul><li><a href='https://mori-appa-coding.tistory.com/75' target='_blank'>[Redux] Redux의 정의 및 기본 개념</a></li></ul>
 
