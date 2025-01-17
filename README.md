@@ -22,8 +22,11 @@
 
 ## 📕 Latest Blog Posts
 
+### 기초 학습/HTML
+<ul><li><a href='https://mori-appa-coding.tistory.com/90' target='_blank'>[HTML] 테이블 만들기 - (tr, td, th, thead, tbody, colspan, rowspan)</a></li></ul>
+
 ### 기초 학습/CSS
-<ul><li><a href='https://mori-appa-coding.tistory.com/89' target='_blank'>[CSS] 반응형 디자인 - 미디어 쿼리 사용법</a></li><li><a href='https://mori-appa-coding.tistory.com/88' target='_blank'>[CSS] Flexbox 속성 정리</a></li><li><a href='https://mori-appa-coding.tistory.com/86' target='_blank'>[CSS] background- 배경</a></li><li><a href='https://mori-appa-coding.tistory.com/76' target='_blank'>[CSS] transform</a></li></ul>
+<ul><li><a href='https://mori-appa-coding.tistory.com/89' target='_blank'>[CSS] 반응형 디자인 - 미디어 쿼리 사용법</a></li><li><a href='https://mori-appa-coding.tistory.com/88' target='_blank'>[CSS] Flexbox 속성 정리</a></li><li><a href='https://mori-appa-coding.tistory.com/86' target='_blank'>[CSS] background- 배경</a></li></ul>
 
 ### 한 입 리액트 챌린지 [3기]
 <ul><li><a href='https://mori-appa-coding.tistory.com/85' target='_blank'>[Day 2] 1.6 ~ 1.9강 수강</a></li><li><a href='https://mori-appa-coding.tistory.com/84' target='_blank'>[Day1] 1.1) ~ 1.5) 강 수강</a></li></ul>
