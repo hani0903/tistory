@@ -22,6 +22,9 @@
 
 ## 📕 Latest Blog Posts
 
+### 기초 학습/미니 프로젝트
+<ul><li><a href='https://mori-appa-coding.tistory.com/91' target='_blank'>가격표 코딩하기</a></li></ul>
+
 ### 기초 학습/HTML
 <ul><li><a href='https://mori-appa-coding.tistory.com/90' target='_blank'>[HTML] 테이블 만들기 - (tr, td, th, thead, tbody, colspan, rowspan)</a></li></ul>
 
@@ -32,5 +35,5 @@
 <ul><li><a href='https://mori-appa-coding.tistory.com/85' target='_blank'>[Day 2] 1.6 ~ 1.9강 수강</a></li><li><a href='https://mori-appa-coding.tistory.com/84' target='_blank'>[Day1] 1.1) ~ 1.5) 강 수강</a></li></ul>
 
 ### Uncategorized
-<ul><li><a href='https://mori-appa-coding.tistory.com/82' target='_blank'>[오픽] 공원 - 스크립트 (3,6,7,8)</a></li><li><a href='https://mori-appa-coding.tistory.com/79' target='_blank'>[오픽] 시험장 요령 확인하기 (강서 CBT 매우 강추)</a></li><li><a href='https://mori-appa-coding.tistory.com/78' target='_blank'>[오픽] 02. 목표 등급에 따라 전략 짜기</a></li><li><a href='https://mori-appa-coding.tistory.com/77' target='_blank'>[오픽] 01. 주제 선택하기</a></li></ul>
+<ul><li><a href='https://mori-appa-coding.tistory.com/82' target='_blank'>[오픽] 공원 - 스크립트 (3,6,7,8)</a></li><li><a href='https://mori-appa-coding.tistory.com/79' target='_blank'>[오픽] 시험장 요령 확인하기 (강서 CBT 매우 강추)</a></li><li><a href='https://mori-appa-coding.tistory.com/78' target='_blank'>[오픽] 02. 목표 등급에 따라 전략 짜기</a></li></ul>
 
