@@ -22,6 +22,9 @@
 
 ## 📕 Latest Blog Posts
 
+### 기초 학습/JavaScript
+<ul><li><a href='https://mori-appa-coding.tistory.com/95' target='_blank'>[JS] JavaScript의 문자열 정리 (규칙, 메서드, 템플릿)</a></li></ul>
+
 ### CSS 프레임워크
 <ul><li><a href='https://mori-appa-coding.tistory.com/92' target='_blank'>[why] 왜 CSS 프레임워크를 공부해야 하는지</a></li></ul>
 
@@ -38,5 +41,5 @@
 <ul><li><a href='https://mori-appa-coding.tistory.com/85' target='_blank'>[Day 2] 1.6 ~ 1.9강 수강</a></li><li><a href='https://mori-appa-coding.tistory.com/84' target='_blank'>[Day1] 1.1) ~ 1.5) 강 수강</a></li></ul>
 
 ### Uncategorized
-<ul><li><a href='https://mori-appa-coding.tistory.com/82' target='_blank'>[오픽] 공원 - 스크립트 (3,6,7,8)</a></li><li><a href='https://mori-appa-coding.tistory.com/79' target='_blank'>[오픽] 시험장 요령 확인하기 (강서 CBT 매우 강추)</a></li></ul>
+<ul><li><a href='https://mori-appa-coding.tistory.com/82' target='_blank'>[오픽] 공원 - 스크립트 (3,6,7,8)</a></li></ul>
 
