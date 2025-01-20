@@ -22,6 +22,9 @@
 
 ## 📕 Latest Blog Posts
 
+### Uncategorized
+<ul><li><a href='https://mori-appa-coding.tistory.com/97' target='_blank'>[CSS] Transitions</a></li></ul>
+
 ### 기초 학습/JavaScript
 <ul><li><a href='https://mori-appa-coding.tistory.com/95' target='_blank'>[JS] JavaScript의 문자열 정리 (규칙, 메서드, 템플릿)</a></li></ul>
 
@@ -39,7 +42,4 @@
 
 ### 한 입 리액트 챌린지 [3기]
 <ul><li><a href='https://mori-appa-coding.tistory.com/85' target='_blank'>[Day 2] 1.6 ~ 1.9강 수강</a></li><li><a href='https://mori-appa-coding.tistory.com/84' target='_blank'>[Day1] 1.1) ~ 1.5) 강 수강</a></li></ul>
-
-### Uncategorized
-<ul><li><a href='https://mori-appa-coding.tistory.com/82' target='_blank'>[오픽] 공원 - 스크립트 (3,6,7,8)</a></li></ul>
 
