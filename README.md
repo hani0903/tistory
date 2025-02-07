@@ -22,15 +22,15 @@
 
 ## 📕 Latest Blog Posts
 
+### Uncategorized
+<ul><li><a href='https://mori-appa-coding.tistory.com/116' target='_blank'>계획</a></li><li><a href='https://mori-appa-coding.tistory.com/114' target='_blank'>[Day7] 동기 비동기</a></li><li><a href='https://mori-appa-coding.tistory.com/105' target='_blank'>[React] 컴포넌트 개념!</a></li></ul>
+
 ### 기초 학습/JavaScript
 <ul><li><a href='https://mori-appa-coding.tistory.com/115' target='_blank'>[JS] JavaScript의 최신 기능 (스프레드 연산자, Rest 매개변수)</a></li><li><a href='https://mori-appa-coding.tistory.com/109' target='_blank'>[JS] Javascript의 배열 변형 메서드 (forEach, map, filter, reduce)</a></li><li><a href='https://mori-appa-coding.tistory.com/106' target='_blank'>[JS] JavaScript 함수 기초</a></li><li><a href='https://mori-appa-coding.tistory.com/104' target='_blank'>[JS] 객체 리터럴</a></li><li><a href='https://mori-appa-coding.tistory.com/102' target='_blank'>[JS] 자바스크립트의 배열</a></li></ul>
-
-### Uncategorized
-<ul><li><a href='https://mori-appa-coding.tistory.com/114' target='_blank'>[Day7] 동기 비동기</a></li><li><a href='https://mori-appa-coding.tistory.com/105' target='_blank'>[React] 컴포넌트 개념!</a></li></ul>
 
 ### 알고리즘
 <ul><li><a href='https://mori-appa-coding.tistory.com/113' target='_blank'>[알고리즘] 해시 알고리즘 (javascript)</a></li></ul>
 
 ### 한 입 리액트 챌린지 [3기]
-<ul><li><a href='https://mori-appa-coding.tistory.com/112' target='_blank'>[Day4] 1.15 ~ 2.2 정리</a></li><li><a href='https://mori-appa-coding.tistory.com/101' target='_blank'>[Day3] 1.10 ~ 1.14강 수강</a></li></ul>
+<ul><li><a href='https://mori-appa-coding.tistory.com/112' target='_blank'>[Day4] 1.15 ~ 2.2 정리</a></li></ul>
 
