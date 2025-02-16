@@ -22,11 +22,11 @@
 
 ## 📕 Latest Blog Posts
 
+### Uncategorized
+<ul><li><a href='https://mori-appa-coding.tistory.com/124' target='_blank'>이벤트 공부</a></li><li><a href='https://mori-appa-coding.tistory.com/120' target='_blank'>알고리즘 공부</a></li><li><a href='https://mori-appa-coding.tistory.com/117' target='_blank'>[DOM]</a></li><li><a href='https://mori-appa-coding.tistory.com/116' target='_blank'>계획</a></li></ul>
+
 ### 기초 학습/DOM &amp; 웹 API
 <ul><li><a href='https://mori-appa-coding.tistory.com/123' target='_blank'>[DOM - 조작] 3️⃣ 클래스를 활용한 스타일 변경하기</a></li><li><a href='https://mori-appa-coding.tistory.com/122' target='_blank'>[DOM-조작] 2️⃣ 요소 속성과 스타일 변경하기</a></li><li><a href='https://mori-appa-coding.tistory.com/121' target='_blank'>[DOM- 조작]  1️⃣ 텍스트와 HTML 변경하기</a></li><li><a href='https://mori-appa-coding.tistory.com/118' target='_blank'>DOM의 정의 및 요소 선택 방법</a></li></ul>
-
-### Uncategorized
-<ul><li><a href='https://mori-appa-coding.tistory.com/120' target='_blank'>알고리즘 공부</a></li><li><a href='https://mori-appa-coding.tistory.com/117' target='_blank'>[DOM]</a></li><li><a href='https://mori-appa-coding.tistory.com/116' target='_blank'>계획</a></li><li><a href='https://mori-appa-coding.tistory.com/114' target='_blank'>[Day7] 동기 비동기</a></li></ul>
 
 ### 알고리즘
 <ul><li><a href='https://mori-appa-coding.tistory.com/119' target='_blank'>[CT] 문제 분석 연습 방법</a></li></ul>
