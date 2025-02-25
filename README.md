@@ -6,7 +6,7 @@
 
 <p>
   <p>
-  <!-- HTML -->
+  <!-- HTML --> 
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <!-- CSS -->
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
